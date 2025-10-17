@@ -1,0 +1,14 @@
+************* Module inventory
+inventory.py:96:0: C0304: Final newline missing (missing-final-newline)
+inventory.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory.py:9:0: C0103: Variable name "STOCK_DATA" doesn't conform to snake_case naming style (invalid-name)
+inventory.py:21:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:23:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:35:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:37:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:39:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:52:12: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 8.55/10 (previous run: 4.80/10, +3.75)
+
